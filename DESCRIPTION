@@ -27,3 +27,5 @@ Suggests:
     sessioninfo,
     rmarkdown
 VignetteBuilder: knitr
+Imports: 
+    SummarizedExperiment
